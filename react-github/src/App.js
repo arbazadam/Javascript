@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>Git react app</p>
+      <h1>Hye</h1>
     </div>
   );
 }
